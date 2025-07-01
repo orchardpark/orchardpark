@@ -14,7 +14,7 @@
     <td align="center">
       <img src="https://github.com/user-attachments/assets/520715f1-2f7f-4dcc-bd42-ac4d323279db" alt="ECA" width="100"/>
       <div><strong>EyeClinicAdmin</strong></div>
-      <div>Administration software for eye clinics in the UK.</div>
+      <div>Administration software for eye clinics in the United Kingdom.</div>
     </td>
   </tr>
 </table>
