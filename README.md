@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=orchardpark&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=orchardpark&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orchardpark&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Active Projects
