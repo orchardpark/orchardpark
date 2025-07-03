@@ -2,7 +2,7 @@
 
 ### Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=orchardpark&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
-![orchardpark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orchardpark&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![orchardpark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orchardpark&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ### Active Projects
 
 <table>
